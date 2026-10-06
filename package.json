@@ -1,0 +1,11 @@
+{
+  "name": "monsoon-mayhem",
+  "version": "0.3.0",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
